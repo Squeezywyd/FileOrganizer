@@ -28,5 +28,14 @@ Viele Nutzer:innen haben im Laufe der Zeit überfüllte Ordner, wie z. B. den 
 - Kernbibliotheken: `System.IO`, `System.Security.Cryptography`, `LINQ`
 - Keine externen Abhängigkeiten
 
+### Projektstruktur
 
+FileOrganizer/
+├── Program.cs
+├── Models/
+│ └── FileActionLog.cs
+├── Services/
+│ └── OrganizerService.cs
+├── Utils/
+│ └── DuplicateHelper.cs
 
