@@ -28,5 +28,5 @@ Viele Nutzer:innen haben im Laufe der Zeit überfüllte Ordner, wie z. B. den 
 - Kernbibliotheken: `System.IO`, `System.Security.Cryptography`, `LINQ`
 - Keine externen Abhängigkeiten
 
-### Projektarchitektur
+
 
